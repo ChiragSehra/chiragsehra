@@ -6,7 +6,7 @@ I'm an AI engineer based in India, focused on the systems behind model execution
 
 I like breaking code. These days, that means probing agent harnesses, testing memory systems, and measuring what it takes to make AI useful beyond the demo.
 
-[Writing — Systems / Signals](https://writing.csehra.in/) · [LinkedIn](https://www.linkedin.com/in/chiragsehra/) · [Email](mailto:chiragsehra42@gmail.com)
+[Website](https://csehra.in/) · [Writing — Systems / Signals](https://writing.csehra.in/) · [LinkedIn](https://www.linkedin.com/in/chiragsehra/) · [Email](mailto:chiragsehra42@gmail.com)
 
 ## Start here
 
